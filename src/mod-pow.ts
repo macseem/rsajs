@@ -1,0 +1,1 @@
+export const modPow = (a:number, e:number, m:number) => Math.pow(a,e)%m;

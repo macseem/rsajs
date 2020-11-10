@@ -1,0 +1,20 @@
+{
+  "name": "rsajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/macseem/rsajs.git",
+  "author": "Maksym Dudkin <lugamax@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "clear:dist": "rm -rf ./dist",
+    "test": "jest"
+  },
+  "dependencies": {
+    "typescript": "^4.0.5"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "ts-jest": "^26.4.4",
+    "ts-node": "^9.0.0"
+  }
+}
